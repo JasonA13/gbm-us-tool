@@ -19,7 +19,7 @@ The API returns the following attribute value-pairs:
 
 
 ## Dependencies
-Project-specific libraries for the visualisation are included in the repository.
+Project-specific libraries for the visualisation are included in the repository. DC.js and Crossfilter were selected as a quick method for adding filtering. 
 
 
 # Additional Steps
